@@ -2,9 +2,9 @@
 
 # Creator: Dylan Smith dsmith167@fordham.edu
 
-# _Contents:_
 
-# **Base Repository (Pre-processing):**
+
+**Base Repository (Pre-processing) [Lupus/]:**
 
 Notes: Current Code requires all csvs to fall in shared folder with the following.
 
@@ -34,7 +34,7 @@ ST4B\_time\_series\_extrapolate.py
 
 
 
-# **Sub Folder (Project Testing):**
+**Sub Folder (Project Testing) [Lupus/project_test/]:**
 
 Notes: Current Code requires all csvs in outer folder. Additionally, &quot;feat\_importance&quot;, &quot;output&quot;, &quot;ROC curves&quot;, and &quot;saved\_results&quot; are sub folders that need to be established prior to running.
 
