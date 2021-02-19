@@ -2,13 +2,11 @@
 
 # Creator: Dylan Smith dsmith167@fordham.edu
 
-Contents:
+_Contents:_
+**
+Base Repository (Pre-processing):**
 
-Base Repository (Pre-processing):
-
-Notes:
-
--Current Code requires all csvs to fall in shared folder with the following.
+Notes: Current Code requires all csvs to fall in shared folder with the following.
 
 ST1.0\_timesteps.py
 
@@ -36,7 +34,7 @@ ST4B\_time\_series\_extrapolate.py
 
 
 
-Sub Folder (Project Testing):
+**Sub Folder (Project Testing):**
 
 Notes: Current Code requires all csvs in outer folder. Additionally, &quot;feat\_importance&quot;, &quot;output&quot;, &quot;ROC curves&quot;, and &quot;saved\_results&quot; are sub folders that need to be established prior to running.
 
